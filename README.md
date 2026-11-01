@@ -1,40 +1,43 @@
-# Kaitun Top Join — Dragon Frame Previews
+# Kaitun Top Join - updated profile-mask previews
 
-Public image previews only. These are tests using a sample face; no live TikTok users or private application code.
+Public image previews only. These use a sample portrait; no real user photos or private app code.
 
-## Preview of all 10 ranks
+## Latest: profile photo under dragon frame, cut to the real transparent opening
 
-![All ranks 1–10](All-Top1-10-Face-Preview.jpg)
+![All 10 Top Join ranks using corrected frame masks](All-Top1-10-Masked.jpg)
 
-## Individual previews
+## Individual ranks (updated)
 
-### Rank 1
-![Top01-face-test.jpg](Top01-face-test.jpg)
+### TOP 1
+![Top01-masked.jpg](Top01-masked.jpg)
 
-### Rank 2
-![Top02-face-test.jpg](Top02-face-test.jpg)
+### TOP 2
+![Top02-masked.jpg](Top02-masked.jpg)
 
-### Rank 3
-![Top03-face-test.jpg](Top03-face-test.jpg)
+### TOP 3
+![Top03-masked.jpg](Top03-masked.jpg)
 
-### Rank 4
-![Top04-face-test.jpg](Top04-face-test.jpg)
+### TOP 4
+![Top04-masked.jpg](Top04-masked.jpg)
 
-### Rank 5
-![Top05-face-test.jpg](Top05-face-test.jpg)
+### TOP 5
+![Top05-masked.jpg](Top05-masked.jpg)
 
-### Rank 6
-![Top06-face-test.jpg](Top06-face-test.jpg)
+### TOP 6
+![Top06-masked.jpg](Top06-masked.jpg)
 
-### Rank 7
-![Top07-face-test.jpg](Top07-face-test.jpg)
+### TOP 7
+![Top07-masked.jpg](Top07-masked.jpg)
 
-### Rank 8
-![Top08-face-test.jpg](Top08-face-test.jpg)
+### TOP 8
+![Top08-masked.jpg](Top08-masked.jpg)
 
-### Rank 9
-![Top09-face-test.jpg](Top09-face-test.jpg)
+### TOP 9
+![Top09-masked.jpg](Top09-masked.jpg)
 
-### Rank 10
-![Top10-face-test.jpg](Top10-face-test.jpg)
+### TOP 10
+![Top10-masked.jpg](Top10-masked.jpg)
 
+## Previous previews
+
+![Previous all-ranks preview](All-Top1-10-Face-Preview.jpg)
